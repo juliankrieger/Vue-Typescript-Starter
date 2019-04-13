@@ -11,6 +11,13 @@ It's possible to either use [TSX class components](https://github.com/vuejs/vue-
 [.Vue style class components](https://github.com/vuejs/vue-class-component/blob/221912562ca4e351e97f13da1673b8368f1e2e87/example/src/components/Hello.vue)
 or a [functional component](https://github.com/nickmessing/babel-plugin-jsx-vue-functional)
 
+## Features
+
+- Global SCSS mixins and functions, defined in [scss]()
+- Babel plugins to enable JSX/TSX components
+- Simple configuration
+- BootstrapVue for easy prototyping, and corresponding import alias
+
 ## Project setup
 ```
 npm install
