@@ -17,6 +17,12 @@ or a [functional component](https://github.com/nickmessing/babel-plugin-jsx-vue-
 - Babel plugins to enable JSX/TSX components
 - Simple configuration
 - BootstrapVue for easy prototyping, and corresponding import alias
+- Simple eslint
+
+### Idea Ultimate features
+
+- Execute ESLint on save with [File Watchers](https://www.jetbrains.com/help/idea/using-file-watchers.html)
+
 
 ## Project setup
 ```
